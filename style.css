@@ -5,6 +5,8 @@
 .open {
     background: url(опен.jpg) no-repeat center center fixed;;
     background-size: cover;
+    <iframe width=«240» height=«160» src=«www.youtube.com/embed/6hEJHb0oQtEww
+    controls=0&showinfo=0&rel=0&autoplay=1&loop=1» frameborder=«0» allow=«accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture» allowfullscreen>
 }
 button {
     background: url();
