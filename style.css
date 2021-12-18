@@ -1,0 +1,17 @@
+.close {
+    background: url(клоз.jpg) no-repeat center center fixed;;
+    background-size: cover;
+}
+.open {
+    background: url(опен.jpg) no-repeat center center fixed;;
+    background-size: cover;
+}
+button {
+    background: url();
+    padding: 250px 150px;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+button {
+    border: none;
+}
