@@ -9,9 +9,9 @@
 button {
     background: url();
     padding: 250px 150px;
-    margin-left: 100px;
-    margin-top: 200px;
+    border: non;
 }
-button {
-    border: none;
+p {
+    text-align: center;
+    margin-top: 220px;
 }
